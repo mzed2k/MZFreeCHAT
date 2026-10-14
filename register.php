@@ -38,7 +38,7 @@
 				<div class="w3-third">
 					<div class="w3-row-padding w3-margin-bottom">
 						<div class="w3-lable">'. $lang["lable"]["password"] .'</div>
-						<input class="w3-input" name="password" type="text" placeholder="'. $lang["register"]["password"] .'" style="width: 100%" minlength="8" maxlength="16" required>
+						<input class="w3-input" name="password" type="password" placeholder="'. $lang["register"]["password"] .'" style="width: 100%" minlength="8" maxlength="16" required>
 					</div>
 				</div>
 				<div class="w3-third">
