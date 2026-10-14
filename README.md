@@ -1,5 +1,7 @@
 FreeCHAT - Chat for free and find new friends!
 
+Work in progress... this chat has some security issues, don't use it for sensitive content.
+
 <img src="preview.jpg">
 
 About:
